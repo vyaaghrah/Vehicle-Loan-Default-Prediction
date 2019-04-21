@@ -11,10 +11,10 @@ Doing so will ensure that clients capable of repayment are not rejected and impo
 
 ### Data Description
 
-**train.zip** - train.zip contains train.csv and data_dictionary.csv.
+- **train.zip** - train.zip contains train.csv and data_dictionary.csv.
                 train.csv contains the training data with details on loan as described in the last section
                 data_dictionary.csv contains a brief description on each variable provided in the training and test set.
-**test.csv**  - test.csv contains details of all customers and loans for which the participants are to submit probability of default.  
+- **test.csv**  - test.csv contains details of all customers and loans for which the participants are to submit probability of default.  
 
 **Libraries used** are _Pandas, Numpy and Scikit-Learn_. And the code was written in _Google Colaboratory_ and thus contains some of its commands.
 
